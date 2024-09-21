@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1,
+    "hospitalName": "Amrita Institute of Medical Sciences",
+    "patientCount": 1500,
+    "location": "Kochi"
+  },
+  {
+    "id": 2,
+    "hospitalName": "Sree Chitra Tirunal Institute for Medical Sciences & Technology",
+    "patientCount": 1200,
+    "location": "Thiruvananthapuram"
+  },
+  {
+    "id": 3,
+    "hospitalName": "Aster Medcity",
+    "patientCount": 1800,
+    "location": "Kochi"
+  },
+  {
+    "id": 4,
+    "hospitalName": "Kerala Institute of Medical Sciences (KIMS)",
+    "patientCount": 1100,
+    "location": "Thiruvananthapuram"
+  },
+  {
+    "id": 5,
+    "hospitalName": "Malabar Cancer Centre",
+    "patientCount": 900,
+    "location": "Thalassery"
+  },
+  {
+    "id": 6,
+    "hospitalName": "Baby Memorial Hospital",
+    "patientCount": 1000,
+    "location": "Kozhikode"
+  },
+  {
+    "id": 7,
+    "hospitalName": "Pushpagiri Medical College Hospital",
+    "patientCount": 800,
+    "location": "Thiruvalla"
+  },
+  {
+    "id": 8,
+    "hospitalName": "Rajagiri Hospital",
+    "patientCount": 700,
+    "location": "Aluva"
+  },
+  {
+    "id": 9,
+    "hospitalName": "Lourdes Hospital",
+    "patientCount": 950,
+    "location": "Kochi"
+  },
+  {
+    "id": 10,
+    "hospitalName": "Jubilee Mission Medical College & Research Institute",
+    "patientCount": 1300,
+    "location": "Thrissur"
+  },
+  {
+    "id": 11,
+    "hospitalName": "Sree Gokulam Medical College & Research Foundation",
+    "patientCount": 850,
+    "location": "Venjaramoodu, Thiruvananthapuram"
+  }
+]
